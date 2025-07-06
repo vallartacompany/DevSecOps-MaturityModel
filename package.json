@@ -25,7 +25,7 @@
     "@angular/platform-browser-dynamic": "^13.0.0",
     "@angular/router": "^13.0.0",
     "@ngneat/until-destroy": "^10.0.0-beta.0",
-    "d3": "^7.5.0",
+    "d3": "^7.9.0",
     "js-yaml": "^4.1.0",
     "markdown-it": "^13.0.1",
     "rxjs": "~7.5.0",
